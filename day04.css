@@ -1,0 +1,33 @@
+.one{
+    width: 250px;
+    height: 150px;
+
+    margin: 100px auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    background-color: gray;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    border-radius: 50%;
+    text-transform: capitalize;
+}
+.two,
+.three,
+.four{
+    width: 200px;
+    height: 130px;
+
+    margin: 200px auto;
+    margin-top: 30px;
+    background-color: gray;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    border-radius: 50%;
+    text-transform: capitalize;
+}
